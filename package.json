@@ -1,0 +1,34 @@
+{
+  "name": "pokemon-app",
+  "version": "0.1.0",
+  "keywords": [
+    "cells-app"
+  ],
+  "dependencies": {
+    "@bbva-experience-components/bbva-type-text": "^1.6.6",
+    "@bbva-web-components/bbva-core-intl-mixin": "^1.5.4",
+    "@bbva-web-components/bbva-foundations-grid-default-layout": "^1.0.1",
+    "@bbva-web-components/bbva-foundations-icons": "^1.25.1",
+    "@bbva-web-components/bbva-header-main": "^7.8.9",
+    "@bbva-web-components/bbva-web-button-default": "^1.5.0",
+    "@bbva-web-components/bbva-web-form-password": "^1.2.0",
+    "@bbva-web-components/bbva-web-form-text": "^1.1.0",
+    "@bbva-web-components/bbva-web-header-public-web": "^1.2.10",
+    "@bbva-web-components/bbva-web-link": "^1.6.1",
+    "@bbva-web-components/bbva-web-module-footer": "^1.1.11",
+    "@cells-demo/demo-app-container": "^1.0.0",
+    "@cells-demo/demo-app-template": "^1.0.0",
+    "@cells-demo/demo-data-dm": "^1.0.0",
+    "@cells-demo/demo-web-template": "^1.1.0",
+    "@cells/cells-bridge": "^3.19.2",
+    "@cells/cells-page-mixin": "^1.0.0",
+    "@meraki/app-pokemon": "git+https://github.com/jadahego/CELLS-JDHG-POKEMON",
+    "@webcomponents/webcomponentsjs": "^2.7.0",
+    "cells-app-template": "^6.0.0",
+    "import": "^0.0.6",
+    "lit-element": "^2.0.0"
+  },
+  "devDependencies": {
+    "@cells/cells-component-core": "^3.2.0"
+  }
+}

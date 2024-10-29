@@ -1,0 +1,16 @@
+{
+  "en": {
+    "login-page.footer-claim": "Creating Opportunities",
+    "login-page.menu-access": "Access",
+    "login-page.menu-register": "Become a customer",
+    "login-page.menu-tab-1": "Pokemon List",
+    "login-page.menu-tab-2": "Pokemon BBVA"
+  },
+  "es": {
+    "login-page.footer-claim": "Creando Oportunidades",
+    "login-page.menu-access": "Ingresar",
+    "login-page.menu-register": "Hazte clñiente",
+    "login-page.menu-tab-1": "Lista Pokemon", 
+    "login-page.menu-tab-2": "Pokemon BBVA" 
+  }
+}
